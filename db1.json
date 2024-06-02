@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "خون شد",
+      "director": "مسعود کیمیایی",
+      "imdb": "3.8 IMDB",
+      "jenre": "درام",
+      "about": "بالای 18 سال - یک ساعت و 44 دقیقه - محصول ایران - 1398 - کیفیت HD",
+      "summery": "«خون شد»، فیلمی در ژانر خانوادگی-اجتماعی و درام به نویسندگی و کارگردانی «مسعود کیمیایی» و تهیه کنندگی «جواد نوروزبیگی» ...",
+      "backgroundImage": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_92476_828.jpg?width=1920&quality=100&secret=_NKuzZHSVuMM-vXmYtN8vg"
+    },
+    {
+      "id": 2,
+      "title": "جنگل پرتقال",
+      "director": "آرمان خوانساریان",
+      "imdb": "6.5 IMDB",
+      "jenre": "درام",
+      "about": "بالای 15 سال - یک ساعت و 33 دقیقه - محصول ایران - 1401 - کیفیت HD",
+      "summery": "معلمی به نام علی بهاریان و با نام هنری سهراب بهاریان در رشته نمایشنامه‌نویسی تحصیل کرده و حالا پس از سال‌ها بی‌کاری به تاز...",
+      "backgroundImage": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_144428_132.jpg?width=1920&quality=80&secret=zHoi-65G0Os720I4RRvxNw"
+    },
+    {
+      "id": 3,
+      "title": "کاپیتان",
+      "director": "محمد حمزه ای",
+      "imdb": "6.5 IMDB",
+      "jenre": "خانوادگی",
+      "about": "بالای 15 سال - یک ساعت و 33 دقیقه - محصول ایران - 1401 - کیفیت HD",
+      "summery": "به من میگن عیسی، هرکاری بخوام میکنم.",
+      "backgroundImage": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_140192_571.jpg?width=1920&quality=100&secret=uzmERXGh49XlkkaKoqWszQ"
+    },
+    {
+      "id": 4,
+      "title": "نارگیل 2",
+      "director": "داوود اطیابی",
+      "jenre": "خانوادگی",
+      "imdb": "6.5 IMDB",
+      "about": "بالای 6 سال - یک ساعت و 20 دقیقه - محصول ایران - 1398 - کیفیت HD",
+      "summery": "داستان درباره‌ی سه عروسک طلسم شده است که بابا حاجت از آن‌ها مراقبت می‌کند و به دنبال معجونی می‌گردد تا طلسم بدی را از ...",
+      "backgroundImage": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_145552_793.jpg?width=1920&quality=80&secret=4NaIYpmz0I6aUIR76pVqqA"
+    },
+    {
+      "id": 5,
+      "title": "اخت الرضا",
+      "director": "سید مجتبی طباطبایی",
+      "jenre": "خانوادگی",
+      "imdb": "6.5 IMDB",
+      "about": "بالای 15 سال - یک ساعت و 34 دقیقه - محصول ایران - 1400 - کیفیت HD",
+      "summery": "این اثر سینمایی سفر بانوی کرامت حضرت معصومه (س) از مدینه به قم را روایت می‌کند...",
+      "backgroundImage": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_146817_776.jpg?width=1920&quality=80&secret=fGbmuADsUFVFdJ-SNqlcyg"
+    },
+    {
+      "id": 6,
+      "title": "فسیل",
+      "director": "کریم امینی",
+      "imdb": "5.4 IMDB",
+      "jenre": "کمدی",
+      "about": "بالای 15 سال - یک ساعت و 50 دقیقه - محصول ایران - 1399 - کیفیت HD",
+      "summery": "فسیل داستان سه دوست را در پیش از انقلاب ایران روایت می‌کند که عضو یک گروه موسیقی‌ اند و برای کسب شهرت تلاش می‌کنند.",
+      "backgroundImage": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_145103_992.jpg?width=1920&quality=80&secret=KVmjn2BTiEfvuGz5-bIO5w"
+    }
+  ]
+}

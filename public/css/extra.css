@@ -1,0 +1,143 @@
+.firstSection {
+  background-image: url("../images/background.jpeg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  box-shadow: inset 0 0 1000px 200px #161616;
+}
+.products {
+  box-shadow: inset 0 0 10px 200px #181919;
+}
+.productimage1 {
+  background-image: url("../images/product-1.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-shadow: inset 0 0 65px 35px #161616;
+}
+.productimage2 {
+  background-image: url("../images/product-2.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-shadow: inset 0 0 65px 35px #161616;
+}
+.productimage3 {
+  background-image: url("../images/product-3.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-shadow: inset 0 0 65px 35px #161616;
+}
+.productimage4 {
+  background-image: url("../images/product-4.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-shadow: inset 0 0 65px 35px #161616;
+}
+.productimage5 {
+  background-image: url("../images/product-5.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-shadow: inset 0 0 65px 35px #161616;
+}
+.productimage6 {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url("../images/product-6.webp");
+  box-shadow: inset 0 0 65px 35px #161616;
+}
+.productimage1,
+.productimage2,
+.productimage3,
+.productimage4,
+.productimage5,
+.productimage6 {
+  border-radius: 10px;
+  transition: 300ms;
+}
+#root {
+  transition: 300ms;
+}
+.markaz {
+  box-shadow: 0 0 30px whitesmoke;
+  background-position: center left;
+  background-size: cover;
+}
+.active {
+  transform: scale(1.05, 1.05);
+  border: 1px solid white;
+  box-shadow: none;
+}
+.tamashaBg {
+  background-image: url("../images/tamasha.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.swiper {
+  width: 100%;
+  height: 100%;
+  display: flex !important;
+  justify-content: start;
+}
+
+.swiper-slide {
+  width: 178px !important;
+  height: 246px !important;
+  text-align: center;
+  font-size: 18px;
+  align-self: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.swiper-button-next,
+.swiper-button-prev {
+  width: 40px !important;
+  height: 40px !important;
+  border-radius: 50% !important;
+  &::after {
+    background-color: black;
+    font-weight: bold;
+    color: white;
+    border-radius: 50% !important;
+    width: inherit;
+    height: inherit;
+    text-align: center;
+    line-height: 40px !important;
+    font-size: 15px !important;
+  }
+}
+.bg_cartoons {
+  background: -webkit-linear-gradient(245deg, #05c3ff 0, #151515 40%);
+}
+.bg-cartoon-1 {
+  background-image: url("../images/bg-kids.png.png");
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.cinema {
+  background-image: url("../images/bg-cinama.webp");
+}
+footer {
+  background: radial-gradient(
+    100% 410.68% at 100% 100%,
+    rgba(0, 0, 0, 0) 0,
+    rgba(0, 29, 13, 0.54) 53.55%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  background-color: #171717;
+}

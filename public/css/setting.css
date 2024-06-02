@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: IranSans;
+}
+
+@font-face {
+  font-family: IranSans;
+  src: url("../fonts/IRANSans-Medium.eot");
+  src: url("../fonts/IRANSans-Medium.woff2");
+  src: url("../fonts/IRANSans-Medium.woff");
+  src: url("../fonts/IRANSans-Medium.ttf");
+}
